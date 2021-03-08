@@ -9,6 +9,6 @@ O jogo tem 3 niveis, são eles.
 2. Nivel Medio - 0 a 40.
 3. Nivel Dificil - 0 a 100.
 
-O usuario tem 3 tentativas, e a acada tentativa errada
+O usuario tem 3 tentativas, e a cada tentativa errada
 o play ver uma mensagem na tela, com uma dica informando
 se o numero digitado foi maior ou menor com o numero comparado.
